@@ -1,0 +1,2 @@
+rootProject.name = "SysUpdate"
+include ':app'
